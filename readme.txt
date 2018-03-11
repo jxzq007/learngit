@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 use --no-ff commit
 Hello World
 coding : utf-8
+/usr/bin/env
